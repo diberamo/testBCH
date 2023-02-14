@@ -5,6 +5,8 @@ include: "//ga360-v2/**/*.explore.lkml"
 # Use LookML refinements to refine views and explores defined in the remote project.
 # Learn more at: https://docs.looker.com/data-modeling/learning-lookml/refinements
 #
+
+
 #
 # For example we could add a new dimension to a view:
 #     view: +flights {
